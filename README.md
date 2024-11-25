@@ -1,16 +1,17 @@
-## Hi there 👋
+<p align="center">
+  <img alt="Banner" src="week.png" width="100%">
+</p>
 
-<!--
-**Gabriel-MirandaDev/Gabriel-MirandaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Oi, eu sou Gabriel Miranda! 👋
 
-Here are some ideas to get you started:
+- 💻 Sou Desenvolvedor Web
+- ⚛️ HTML5 | CSS3 | JavaScript | Java | PHP | Python
+- 🧑‍💻 Cursando Analise e Desenvolvimento de Sistema
+- 💡 Projeto em andamento [YouTube](https://www.youtube.com/@GabrielMirandaDev-m9i),[Twitch](https://www.twitch.tv/gabrielmirandadev)
+- 📧 Como Chegar Até Mim [My Site](###),[Linkedin](https://www.linkedin.com/in/gabriel-miranda-dev-288299207/),[Instagram](https://www.instagram.com/eumirandagabriell/)
+## Linguagens e Ferramentas:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img alt="html" src="html.png" width="25">&nbsp;&nbsp;<img alt="css" src="css-3.png" width="25">&nbsp;&nbsp;<img alt="js" src="java-script.png" width="25">&nbsp;&nbsp;<img alt="php" src="web.png" width="25">&nbsp;&nbsp;<img alt="sql" src="mysql.png" width="25">&nbsp;&nbsp;<img alt="java" src="java.png" width="25">&nbsp;&nbsp;<img alt="python" src="python.png" width="25">
+<br><br><br>
+🚀Conta-me o teu passado e saberei o teu futuro.
+
