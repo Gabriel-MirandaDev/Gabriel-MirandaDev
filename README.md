@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Banner" src="week.png" width="100%">
+  <img alt="Banner" src="README.md/week.png" width="100%">
 </p>
 
 ## Oi, eu sou Gabriel Miranda! 👋
