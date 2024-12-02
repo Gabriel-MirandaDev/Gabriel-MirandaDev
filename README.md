@@ -11,11 +11,10 @@
 - 📧 Como Chegar Até Mim [My Site](###),[Linkedin](https://www.linkedin.com/in/gabriel-miranda-dev-288299207/),[Instagram](https://www.instagram.com/eumirandagabriell/)
 ## Linguagens e Ferramentas:
 
-  <img alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="25">&nbsp;&nbsp;<img alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="25">&nbsp;&nbsp;<img alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="25" />&nbsp;&nbsp;<img alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="35" />&nbsp;&nbsp;<img alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="35" />&nbsp;&nbsp;<img alt="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="35" />
+  <img alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40">&nbsp;&nbsp;<img alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="40">&nbsp;&nbsp;<img alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" />&nbsp;&nbsp;<img alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" />&nbsp;&nbsp;<img alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="45" />&nbsp;&nbsp;<img alt="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="45" />
           
+                 
           
-          
-          
-<br><br><br>
+<br><br>
 🚀Conta-me o teu passado e saberei o teu futuro.
 
