@@ -5,7 +5,7 @@
 ## Oi, eu sou Gabriel Miranda! 👋
 
 - 💻 Sou Desenvolvedor Full-Stack
-- ⚛️ HTML5 | CSS3 | JavaScript | Java | PHP | Python
+- ⚛️ HTML5 | CSS3 | JavaScript | PHP 
 - 🧑‍💻 Cursando Analise e Desenvolvimento de Sistema
 - 💡 Projeto em andamento [YouTube](https://www.youtube.com/@GabrielMirandaDev-m9i),[Twitch](https://www.twitch.tv/gabrielmirandadev)
 - 📧 Como Chegar Até Mim [My Site](###),[Linkedin](https://www.linkedin.com/in/gabriel-miranda-dev-288299207/),[Instagram](https://www.instagram.com/eumirandagabriell/)
